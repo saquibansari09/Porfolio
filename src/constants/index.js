@@ -115,7 +115,7 @@ export const experiences = [
         company_name: "Viser Solution Pvt Ltd",
         icon: starbucks,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "May 2022 - August 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -141,7 +141,7 @@ export const experiences = [
         company_name: "Freelance",
         icon: shopify,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Nov 2023 - Oct 2024",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -149,6 +149,23 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+
+   {
+    title: "Full Stack Developer",
+    company_name: "QSpiders",
+    icon: shopify,
+    iconBg: "#b7e4c7",
+    date: "April 2023 - May 2024",
+    points: [
+        "Experienced Java Full Stack Developer skilled in HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, MUI, Tailwind CSS, Java, Spring Boot, Hibernate, RESTful APIs, SQL, and PostgreSQL.",
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+}
+
+,
     {
         title: "Full stack Developer",
         company_name: "Algomatix Pvt Ltd",
