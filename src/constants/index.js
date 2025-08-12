@@ -150,22 +150,22 @@ export const experiences = [
         ],
     },
 
-   {
-    title: "Full Stack Developer",
-    company_name: "QSpiders",
-    icon: shopify,
-    iconBg: "#b7e4c7",
-    date: "April 2023 - May 2024",
-    points: [
-        "Experienced Java Full Stack Developer skilled in HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, MUI, Tailwind CSS, Java, Spring Boot, Hibernate, RESTful APIs, SQL, and PostgreSQL.",
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-}
+    {
+        title: "Full Stack Developer",
+        company_name: "QSpiders",
+        icon: shopify,
+        iconBg: "#b7e4c7",
+        date: "April 2023 - May 2024",
+        points: [
+            "Experienced Java Full Stack Developer skilled in HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, MUI, Tailwind CSS, Java, Spring Boot, Hibernate, RESTful APIs, SQL, and PostgreSQL.",
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    }
 
-,
+    ,
     {
         title: "Full stack Developer",
         company_name: "Algomatix Pvt Ltd",
@@ -173,10 +173,17 @@ export const experiences = [
         iconBg: "#a2d2ff",
         date: "Oct 2024 - Present",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Develop, test, implement, and maintain application software following established processes.",
+            "Drive best practices, quality, and consistency within design and development phases.",
+            "Utilize and contribute to the credited strategic codebase for project design.",
+            "Identify both production and non-production application issues.",
+            "Design, implement, and maintain C# application phases.",
+            "Identify opportunities to fine-tune and optimize C#-based projects.",
+            "Provide technical support and consultation for C# applications and infrastructure-related queries.",
+            "Provide direct support to the Development Manager as requested.",
+            "Establish, refine, and integrate development and testing environment tools and software as needed.",
+            "Recommend changes to improve established C# application processes.",
+            "Develop technical designs for application development.",
         ],
     },
 ];
